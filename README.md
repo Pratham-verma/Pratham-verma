@@ -20,7 +20,7 @@
 
    • instagram : pratham-verma-17
    
-   • LinkedIn : www.linkedin.com/in/pratham-tech
+   • LinkedIn : https://t.ly/-me.
 
 
 
