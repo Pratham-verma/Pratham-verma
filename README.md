@@ -18,9 +18,9 @@
 
 🗞️ SOCIAL MEDIA -
 
-   •instgram : pratham-verma-17
+   • instagram : pratham-verma-17
    
-   •LinkedIn : www.linkedin.com/in/pratham-tech
+   • LinkedIn : www.linkedin.com/in/pratham-tech
 
 
 
