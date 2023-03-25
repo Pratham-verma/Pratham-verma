@@ -16,7 +16,13 @@
 
 • i am also like to play some sports (volleyball, basket ball and cricket).
 
-🗞️ instgram : pratham-verma-17
+🗞️ SOCIAL MEDIA -
+
+   •instgram : pratham-verma-17
+   
+   •LinkedIn : www.linkedin.com/in/pratham-tech
+
+
 
 🗞️ for contact : vermapratham623@gmail.com
 
