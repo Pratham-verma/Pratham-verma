@@ -2,7 +2,7 @@
 
 • I am B TECH computer science student.
 
-• c/c++ developer.
+•  I've done Programming languages -  (c , c++) and various Certification courses related to CyberSecurity.
 
 • aspiring security architect.
 
