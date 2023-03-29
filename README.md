@@ -1,24 +1,24 @@
 👋 Hi, I’m @Pratham-verma
 
-• I am B TECH computer science student.
+• I'm B TECH computer science student.
 
 •  I've done Programming languages -  (c , c++) and various Certification courses related to CyberSecurity.
 
 • aspiring security architect.
 
-• I am motivated to learn and grow in the cyber security industry.
+• I'm motivated to learn and grow in the cyber security industry.
 
-• I am also like to EDIT the video's  for social media.
+• I'm also like to EDIT the video's  for social media.
 
-• I am also PLAY competitive gaming.
+• I'm also PLAY competitive gaming.
 
-• my b tech complete in "2022-2026".
+• my b.tech complete in "2022-2026".
 
-• i am also like to play some sports (volleyball, basket ball and cricket).
+• I'm also like to play some sports (volleyball, basket ball and cricket).
 
 🗞️ SOCIAL MEDIA -
 
-   • instagram : pratham-verma-17
+   • Instagram : Pratham-verma-17
    
    • LinkedIn : www.linkedin.com/in/pratham-tech
 
