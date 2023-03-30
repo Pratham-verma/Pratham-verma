@@ -12,7 +12,7 @@
 
 • I'm also PLAY competitive gaming.
 
-• my b.tech complete in "2022-2026".
+• my Graduation complete in "2022-2026".
 
 • I'm also like to play some sports (volleyball, basket ball and cricket).
 
