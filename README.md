@@ -10,7 +10,7 @@
 
    • I am highly motivated to learn and grow in the cybersecurity industry.
      
-   • I am a Kali Linux user.
+   •  Kali Linux user.
      
    • I also enjoy editing video's for social media. In addition, I am a competitive gamer. 
   
