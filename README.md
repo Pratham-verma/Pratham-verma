@@ -27,7 +27,3 @@ you can find me ,
  🔗 GitHub at pratham verma-TecH.
  
 for contact : vermapratham623@gmail.com.
-<!---
-Pratham-verma/Pratham-verma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
