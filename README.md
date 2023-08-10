@@ -6,7 +6,7 @@ Hello! Welcome to my profile.
  I am a Btech computer science student with experience in programming languages such as C , C++ and python as well as various Cybersecurity certification courses and My expertise in both operational and project aspects of cybersecurity, allowing me to excel in diverse roles and tackle comprehensive security challenges
 
 🚀 My ultimate goal is to become a 'CISO'. 
-I am highly motivated to learn and grow in the cybersecurity industry.
+- I am highly motivated to learn and grow in the cybersecurity industry.
 
 Some key points about me:
 
