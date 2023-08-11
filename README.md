@@ -18,8 +18,8 @@ Some key points about me:
 
 If you would like to connect with me or have any inquiries, feel free to reach out through the following channels:
 
-- Instagram: [pratham.offsec](https://www.instagram.com/pratham.offsec/)
-- Linkedin:  [pratham verma](https://www.linkedin.com/in/pratham-tech/)
-- Email: tryhack7065@gmail.com
+- Instagram : [pratham.offsec](https://www.instagram.com/pratham.offsec/)
+- Linkedin :  [pratham verma](https://www.linkedin.com/in/pratham-tech/)
+- Email : tryhack7065@gmail.com
 
 Thank you for visiting my profile!
