@@ -9,7 +9,7 @@ Hello! Welcome to my profile.
 
 Some key points about me:
 
-- I am highly motivated to learn and grow in the cybersecurity industry
+- I am highly motivated to learn and grow in the cybersecurity industry.
 - In my free time, I enjoy editing videos for social media platforms.
 - I am also a competitive gamer, I also participate in the state junior esports championship.
 - Sports like volleyball and cricket are among my favorite activities.
