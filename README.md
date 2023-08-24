@@ -1,5 +1,5 @@
 
-# Pratham-verma
+# Pratham Verma
 
 Hello! Welcome to my profile.
 
@@ -22,4 +22,4 @@ If you would like to connect with me or have any inquiries, feel free to reach o
 - Linkedin :  [pratham verma](https://www.linkedin.com/in/pratham-tech/)
 - Email : tryhack7065@gmail.com
 
-Thank you for visiting my profile!
+Thank you for visiting my profile !
