@@ -8,7 +8,7 @@
 
 🚀 My ultimate goal is to become a 'CISO'. 
 
-##Some key points about me:
+## Some key points about me:
 
 - I am highly motivated to learn and grow in the cybersecurity industry.
 - In my free time, I enjoy editing videos for social media platforms.
