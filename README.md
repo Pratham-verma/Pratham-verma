@@ -1,7 +1,7 @@
 <!-- Image start -->
 
 <p align="center"> 
-    <a href="#"><img width="100%" height="auto" src=".\contents\Blue Geometric Technology LinkedIn Banner.png" height="175px"/> </a>
+    <a href="#"><img width="100%" height="auto" src=".m:\contents\Blue Geometric Technology LinkedIn Banner.png" height="175px"/> </a>
 </p>
 
 <h1 align="left">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Pratham Verma</h1>
