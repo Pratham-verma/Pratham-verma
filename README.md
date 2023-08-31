@@ -1,7 +1,7 @@
 
 <h1 align="left">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Pratham Verma</h1>
 <hr style="height:4px;border-width:0;color:gray;background-color:gray">
-<h3 align="left">| Security engineer | Penetration tester | CTF player |</h3>
+<h3 align="left">| Security engineer | Penetration tester | CTF player at TryHackMe |</h3>
 
 
  I am a Btech computer science student with experience in programming languages such as C , C++ and python as well as various Cybersecurity certification courses and My expertise in both operational and project aspects of cybersecurity, allowing me to excel in diverse roles and tackle comprehensive security challenges
