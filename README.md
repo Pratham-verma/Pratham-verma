@@ -4,21 +4,32 @@
 <h3 align="left">| Security engineer | Penetration tester | CTF player at TryHackMe |</h3>
 
 
- I am a Btech computer science student with experience in programming languages such as C , C++ and python as well as various Cybersecurity certification courses and My expertise in both operational and project aspects of cybersecurity, allowing me to excel in diverse roles and tackle comprehensive security challenges
+🎙️My name Pratham Verma, I’m aspiring Security Engineer and passionate about cyber security and expanding my knowledge of software and IT field .
 
-🚀 My ultimate goal is to become a 'CISO'. 
+## 🚀Skills :-
+• Experience in multiple programming languages such as C , C++ , Python and java and Understanding the concept of object oriented programming (oops).
+• Gaining hands-on experience in Penetration testing techniques.
+• Solid foundation in Linux systems.  
+• Developing my skill as a Capture the flag(CTF) player on TryHackMe, Where I tackle real-world challenges.
+• My expertise in both operational and project aspects of cybersecurity, allowing me to  tackle comprehensive security challenges.
 
-## Some key points about me:
+### 🌐 My ultimate goal is to become a Chief Information Security Officer(CISO).
 
-- I am highly motivated to learn and grow in the cybersecurity industry.
-- In my free time, I enjoy editing videos for social media platforms.
-- I am also a competitive gamer, I also participate in the state junior esports championship.
-- Sports like volleyball and cricket are among my favorite activities.
+## 📶Some key points about me :-
+• I am highly motivated to learn and grow in the cybersecurity industry.
+• In my free time, I enjoy editing videos for social media platforms.
+• I am also a competitive gamer, I also participate in the state junior esports championship.
+• Sports like volleyball and chess are among my favorite activities.
+• My Graduation completed in 2026.
+
+If you would like to connect with me, 
+ 🔗 Instagram at pratham.offsec.
+ 🔗 GitHub at pratham verma 
+for contact : tryhack7065@gmail.com.
 
 ## Contact Information
 
-If you would like to connect with me or have any inquiries, feel free to reach out through the following channels:
-
+If you would like to connect with me or have any inquiries,
 - Instagram : [pratham.offsec](https://www.instagram.com/pratham.offsec/)
 - Linkedin :  [pratham verma](https://www.linkedin.com/in/pratham-tech/)
 - Email : tryhack7065@gmail.com
