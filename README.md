@@ -35,7 +35,7 @@
 If you would like to connect with me or have any inquiries,
 - Instagram : [pratham.offsec](https://www.instagram.com/pratham.offsec/)
 - Linkedin :  [pratham verma](https://www.linkedin.com/in/pratham-tech/)
-- Email : contact@prathamverma.me
+- Email : tryhack7065@gmail.com
 
 Thank you for visiting my profile !
 
