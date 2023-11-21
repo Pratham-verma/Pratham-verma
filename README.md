@@ -7,7 +7,7 @@
 🎙️I’m aspiring Security Engineer and passionate about cyber security and expanding my knowledge of software and IT field .
 
 ## 🚀 Skills :-
-• Experience in multiple programming languages such as C , C++ , Python and java and Understanding the concept of object oriented programming (oops).
+• Experience in multiple programming languages such as C , C++ , Python and java and Understanding the concept of object oriented programming (oops) and Data Structure and Algorithm(DSA).
 
 • Gaining hands-on experience in Penetration testing techniques.
 
