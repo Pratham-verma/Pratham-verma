@@ -1,7 +1,7 @@
 
 <h1 align="left">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Pratham Verma</h1>
 <hr style="height:4px;border-width:0;color:gray;background-color:gray">
-<h3 align="left">| Security enthusiast | Penetration tester | CTF player at TryHackMe |</h3>
+<h3 align="left">| Security enthusiast | Penetration tester | Web Security |</h3>
 
 
 🎙️I’m aspiring Security Engineer and passionate about cyber security and expanding my knowledge of software and IT field .
