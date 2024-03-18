@@ -1,42 +1,22 @@
+<h1 align="center">Hi 👋, I'm Pratham Verma</h1>
+<h3 align="center">| Security Enthusiast | Penetration Tester | Web Security | Network Security</h3><br></br>
 
-<h1 align="left">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Pratham Verma</h1>
-<hr style="height:4px;border-width:0;color:gray;background-color:gray">
-<h3 align="left">| Security enthusiast | Penetration tester | Web Security |</h3>
+<img align = "right" alt ="hacker" width="400" src="https://i.pinimg.com/originals/8b/e4/ef/8be4efc0a8e5bc4903aae00db82cb982.gif">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pratham-verma&label=Profile%20views&color=0e75b6&style=flat" alt="pratham-verma" /> </p>
+<p> I am an aspiring Security Engineer with a passion for cybersecurity and expand my expertise in the software and IT fields. particularly focusing on web security and network security. I strive to contribute effectively to securing digital environments </p> 
 
-🎙️I’m aspiring Security Engineer and passionate about cyber security and expanding my knowledge of software and IT field .
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/techpratham1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="techpratham1" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pratham-verma-7685b8220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pratham-verma-7685b8220" height="30" width="40" /></a>
+<a href="https://instagram.com/pratham.offsec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pratham.offsec" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/pratham_verma_17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pratham_verma_17" height="30" width="40" /></a>
+</p>
 
-## 🚀 Skills :-
-• Experience in multiple programming languages such as C , C++ , Python and java and Understanding the concept of object oriented programming (oops) and Data Structure and Algorithm(DSA).
-
-• Gaining hands-on experience in Penetration testing techniques.
-
-• Solid foundation in Linux systems.  
-
-• Developing my skill as a Capture the flag(CTF) player on TryHackMe, Where I tackle real-world challenges.
-
-• My expertise in both operational and project aspects of cybersecurity, allowing me to  tackle comprehensive security challenges.
-
-### 🌐 My ultimate goal is to become a Chief Information Security Officer(CISO).
-
-## 📶 Some key points about me :-
-• I am highly motivated to learn and grow in the cybersecurity industry.
-
-• In my free time, I enjoy editing videos for social media platforms.
-
-• I am also a competitive gamer, I also participate in the state junior esports championship.
-
-• Sports like volleyball and chess are among my favorite activities.
-
-• My Graduation completed in 2026.
-
-## Contact Information
-
-If you would like to connect with me or have any inquiries,
-- Instagram : [pratham.offsec](https://www.instagram.com/pratham.offsec/)
-- Linkedin :  [pratham verma](https://www.linkedin.com/in/pratham-tech/)
-- Email : tryhack7065@gmail.com
-
-Thank you for visiting my profile !
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=pratham-verma&" alt="pratham-verma" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pratham-verma&show_icons=true&locale=en" alt="pratham-verma" /></p>
