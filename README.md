@@ -25,4 +25,4 @@
 <a href="https://nmap.org" target="_blank" rel="noreferrer"> <img src="https://nmap.org/images/sitelogo-2x.png" alt="Nmap" width="60" height="40"/>
 </p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=pratham-verma&show_icons=true&locale=en" alt="pratham-verma" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pratham-verma&show_icons=true&locale=en" alt="pratham-verma" /></p>
