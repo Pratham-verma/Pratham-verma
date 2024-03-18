@@ -4,7 +4,7 @@
 <img align = "right" alt ="hacker" width="300" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratham-verma&label=Profile%20views&color=0e75b6&style=flat" alt="pratham-verma" /> </p>
-<p> I am an aspiring Security Engineer with a passion for cybersecurity and expand my expertise in the software and IT fields. particularly focusing on web security and network security. I strive to contribute effectively to securing digital environments </p> 
+<p> I am an aspiring Security Engineer with a passion for cybersecurity and expand my expertise in the software and IT fields. particularly focusing on web security and network security. I strive to contribute effectively to securing digital environments. </p> 
 
 
 <h3 align="left">Languages and Tools:</h3>
