@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pratham Verma</h1>
 <h3 align="center">| Security Enthusiast | Penetration Tester | Web Security | Network Security</h3><br></br>
 
-<img align = "right" alt ="hacker" width="300" src="https://i.pinimg.com/originals/8b/e4/ef/8be4efc0a8e5bc4903aae00db82cb982.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratham-verma&label=Profile%20views&color=0e75b6&style=flat" alt="pratham-verma" /> </p>
 <p> I am an aspiring Security Engineer with a passion for cybersecurity and expand my expertise in the software and IT fields. particularly focusing on web security and network security. I strive to contribute effectively to securing digital environments </p> 
 
