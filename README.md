@@ -13,7 +13,7 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.metasploit.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=256&id=PW0ChfedZvTh&format=png" alt="metasploit" width="50" height="40"/> </a>
-<a href="https://en.wikipedia.org/wiki/Burp_Suite" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=256&id=cVUr1WGmhrbq&format=png" alt="Burpsuite" width="40" height="40"/>
+<a href="https://en.wikipedia.org/wiki/Burp_Suite" target="_blank" rel="noreferrer"> <img src="https://github.com/Pratham-verma/Pratham-verma/blob/main/burpsutie.png?raw=true" alt="Burpsuite" width="40" height="40"/>
 <a href="https://nmap.org" target="_blank" rel="noreferrer"> <img src="https://nmap.org/images/sitelogo-2x.png" alt="Nmap" width="60" height="40"/>
 </p>
 
