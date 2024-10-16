@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Pratham Verma</h1>
-<h3 align="center">| Security Enthusiast | Penetration Tester | Web Security | Network Security</h3><br></br>
+![Cover Image](https://github.com/Pratham-verma/Pratham-verma/blob/main/Cover.png)
+<h1 align="left">Hi 👋, I'm Pratham Verma</h1>
+<h3 align="left">Security Enthusiast | Penetration Tester | Web Security | Network Security</h3><br></br>
 
 <img align = "right" alt ="hacker" width="300" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
 
