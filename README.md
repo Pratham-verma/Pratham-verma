@@ -8,7 +8,7 @@
 <p> I am an aspiring Security Engineer with a passion for cybersecurity and expand my expertise in the software and IT fields. particularly focusing on web security and network security. I strive to contribute effectively to securing digital environments. </p> 
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left"> 🛠 Languages and Tools</h3>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
@@ -18,9 +18,14 @@
 <a href="https://nmap.org" target="_blank" rel="noreferrer"> <img src="https://nmap.org/images/sitelogo-2x.png" alt="Nmap" width="60" height="40"/>
 </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"> 🌐 Connect with me</h3>
 <p align="left">
 <a href="https://twitter.com/techpratham1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="techpratham1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pratham-verma-7685b8220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pratham-verma-7685b8220" height="30" width="40" /></a>
 <a href="https://instagram.com/prathamoffsec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prathamoffsec" height="30" width="40" /></a>
 </p>
+<h3 align="left" > 📝 Latest Blog Posts </h3>
+
+- [**The Network's Hidden Conversations: Exploring the Depths of Network Traffic Analysis (NTA)**](https://medium.com/@prathamverma.me/the-networks-hidden-conversations-exploring-the-depths-of-network-traffic-analysis-nta-c45347e82670)
+- [**Cybersecurity Frameworks 101**](https://medium.com/@prathamverma.me/cybersecurity-frameworks-101-5c3c1a79d482)
+
