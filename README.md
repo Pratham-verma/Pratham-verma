@@ -4,7 +4,7 @@
 
 <img align = "right" alt ="hacker" width="300" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
 <a href="https://tryhackme.com/r/p/Nexgen">
-  <img width="300" height=80" src="https://tryhackme-badges.s3.amazonaws.com/Nexgen.png" alt="TryHackMe Badge" />
+  <img src="https://tryhackme-badges.s3.amazonaws.com/Nexgen.png" alt="Your Image Badge" />
 </a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratham-verma&label=Profile%20views&color=0e75b6&style=flat" alt="pratham-verma" /> </p>
 
