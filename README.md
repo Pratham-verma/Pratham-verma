@@ -1,4 +1,4 @@
-![Cover Image](https://github.com/Pratham-verma/Pratham-verma/blob/main/Cover.png)
+
 <h1 align="left">Hi 👋, I'm Pratham Verma</h1> 
 <h3 align="left">Security Engineer | Penetration Tester | Web Security | Network Security</h3><br></br>
 
