@@ -33,5 +33,5 @@
 
 <h3 align="left" > 📝 Latest Blog Posts </h3>
 
-- [**SSRF VS CSRF Web Vulnerabilities**](https://medium.com/@prathamverma.me/ssrf-vs-csrf-web-vulnerabilities-283338e9f28d)
-- [**The Network's Hidden Conversations: Exploring the Depths of Network Traffic Analysis (NTA)**](https://medium.com/@prathamverma.me/the-networks-hidden-conversations-exploring-the-depths-of-network-traffic-analysis-nta-c45347e82670)
+- [**OS Hardening 15 Best Practices**](https://medium.com/@prathamverma.me/os-hardening-15-best-practices-0bf43305a42b)
+- [**Understanding DOM-Based XSS: A Critical Web Security Risk**](https://medium.com/@prathamverma.me/understanding-dom-based-xss-a-critical-web-security-risk-886a5b4bbad7)
