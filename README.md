@@ -33,5 +33,5 @@
 
 <h3 align="left" > 📝 Latest Blog Posts </h3>
 
+- [**Postman for API Testing — The Beginner Guide**](https://medium.com/@prathamverma.me/postman-for-api-testing-the-beginner-guide-71dd5ffeab40)
 - [**OS Hardening 15 Best Practices**](https://medium.com/@prathamverma.me/os-hardening-15-best-practices-0bf43305a42b)
-- [**Understanding DOM-Based XSS: A Critical Web Security Risk**](https://medium.com/@prathamverma.me/understanding-dom-based-xss-a-critical-web-security-risk-886a5b4bbad7)
