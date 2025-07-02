@@ -34,4 +34,4 @@
 <h3 align="left" > 📝 Latest Blog Posts </h3>
 
 - [**Linux Firewall With Iptables: A Complete Guide**](https://medium.com/@prathamverma.me/linux-firewall-with-iptables-ultimate-guide-bb4cc63e50e0)
-- [**OS Hardening 15 Best Practices**](https://medium.com/@prathamverma.me/os-hardening-15-best-practices-0bf43305a42b)
+- [**Postman for API Testing — The Beginner Guide**](https://medium.com/@prathamverma.me/postman-for-api-testing-the-beginner-guide-71dd5ffeab40)
