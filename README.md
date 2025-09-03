@@ -1,6 +1,9 @@
-<h1 align="left">Hi 👋, I'm Pratham Verma</h1> 
-<h3 align="left">Security Engineer | Penetration Tester | Web Security | Network Security</h3><br></br>
+<p align="center">
+  <img src="https://github.com/Pratham-verma/Pratham-verma/blob/main/hacker.gif?raw=true" width="800" height="280">
+</p>
 
+<h1 align="center">👋 This is Pratham Verma</h1> 
+<h3 align="center">Cyber Security Analyst | Penetration Tester | Web Security | Android Security</h3><br></br>
 <img align = "right" alt ="hacker" width="300" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
 </a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratham-verma&label=Profile%20views&color=0e75b6&style=flat" alt="pratham-verma" /> </p>
@@ -33,5 +36,34 @@
 
 <h3 align="left" > 📝 Latest Blog Posts </h3>
 
+- [**RSA Cryptography — A Complete Guide to the Algorithm Behind Digital Security**](https://medium.com/@prathamverma.me/rsa-cryptography-a-complete-guide-to-the-algorithm-behind-digital-security-07b380b7ff10)
 - [**Linux Firewall With Iptables: A Complete Guide**](https://medium.com/@prathamverma.me/linux-firewall-with-iptables-ultimate-guide-bb4cc63e50e0)
-- [**Postman for API Testing — The Beginner Guide**](https://medium.com/@prathamverma.me/postman-for-api-testing-the-beginner-guide-71dd5ffeab40)
+
+
+<div  align="center">
+  <table style="text-align: center;">
+    <tr>
+      <td style="text-align: center;">
+        <img 
+          src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXdqZmZ5cDRzNGV0dXVlN2xkMXdmYzdmOHhucHY4ZmVpMDNoZnM0cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oFvFtrhrmIFFe/giphy.webp" 
+          alt="Centered GIF" 
+          height="200px" 
+          width="400px" />
+      </td>
+      <td style="text-align: center;">
+        <img 
+          src="https://media2.giphy.com/media/3oEjHWpiVIOGXT5l9m/200w.webp?cid=ecf05e47ngkwc1i7duqdpbnkoe7q6j0o9ovps7ueia52ks8g&ep=v1_gifs_related&rid=200w.webp&ct=g" 
+          alt="Middle GIF" 
+          height="200px" 
+          width="400px" />
+      </td>
+      <td style="text-align: right;">
+        <img 
+          src="https://media0.giphy.com/media/e6fFK6brsPVHG/giphy.webp?cid=ecf05e474q2my31iey1q8zzi3bdqkxqtzgvgh550paox4x31&ep=v1_gifs_related&rid=giphy.webp&ct=g" 
+          alt="Right-Aligned GIF" 
+          height="200px" 
+          width="400px" />
+      </td>
+    </tr>
+  </table>
+</div>
