@@ -8,7 +8,7 @@
 </a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratham-verma&label=Profile%20views&color=0e75b6&style=flat" alt="pratham-verma" /> </p>
 
-<p> Cybersecurity Analyst with 6 months of hands-on experience through internships and projects, specializing in Web Application Security, Android Security, and API Security. I have performed VAPT assessments, conducted DAST and SAST reviews, identified critical vulnerabilities, and contributed to strengthening the security posture of real-world applications. </p> 
+<p>Cybersecurity Analyst with 6 months of hands-on experience through internships and projects, specializing in Web Application Security, Android Security, and API Security. I have performed VAPT assessments, conducted DAST and SAST reviews, identified critical vulnerabilities, and contributed to strengthening the security posture of real-world applications.</p> 
 
 <h3 align="left"> 🛠 Languages and Tools</h3>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
